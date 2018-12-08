@@ -1,0 +1,48 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "Tennis",
+                "projectName": "Tennis",
+                "workingDirectory": "/home/local/antlammi/Documents/OhTu/ohtu-viikko5/Tennis",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "IntJoukkoSovellus",
+                "projectName": "IntJoukkoSovellus",
+                "workingDirectory": "/home/local/antlammi/Documents/OhTu/ohtu-viikko5/IntJoukkoSovellus",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "Tennis",
+                "projectName": "Tennis",
+                "workingDirectory": "/home/local/antlammi/Documents/OhTu/ohtu-viikko5/Tennis",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "IntJoukkoSovellus",
+                "projectName": "IntJoukkoSovellus",
+                "workingDirectory": "/home/local/antlammi/Documents/OhTu/ohtu-viikko5/IntJoukkoSovellus",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

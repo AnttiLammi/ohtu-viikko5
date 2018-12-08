@@ -1,1 +1,1 @@
-# ohtu-viikko5
+# ohtu-viikko5 ja viikko 6
