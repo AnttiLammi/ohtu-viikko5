@@ -9,16 +9,17 @@ public class Or implements Matcher {
     public Or(Matcher... matchers) {
         this.matchers = matchers;
     }
-
+    
     @Override
     public boolean matches(Player p) {
-        Boolean match = false;
+        
         for (Matcher matcher : matchers) {
+            Matcher debug = matcher;
             if (matcher.matches(p)) {
-                match = true;
+                return true;
             }
         }
 
-        return match;
+        return false;
     }
 }
