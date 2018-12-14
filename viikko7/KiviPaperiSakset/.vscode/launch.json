@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Paaohjelma",
+            "request": "launch",
+            "mainClass": "ohtu.kivipaperisakset.Paaohjelma",
+            "projectName": "KiviPaperiSakset"
+        }
+    ]
+}
